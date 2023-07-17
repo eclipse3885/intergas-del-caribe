@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../website-simple-mobile-web-design-master"
+		},
+		{
+			"path": "../Nueva carpeta"
+		},
+		{
+			"path": "../menu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pagina Web"
+	}
+}
